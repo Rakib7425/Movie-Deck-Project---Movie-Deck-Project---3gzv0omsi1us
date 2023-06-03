@@ -1,6 +1,6 @@
 # Newton School's HTML CSS and JavaScript project.
 # By Rakibul Islam
-author:Rakibul Islam
+#### Nov-2022 (Rubi) Bstch
 <p><a href="https://www.linkedin.com/in/rakibul-islam-969106259/">LinkedIn</a></p>
 <p><a href="https://github.com/Rakib7425">Github</a></p>
 <p><a href="https://leetcode.com/rakib74/">LeetCode</a></p>
